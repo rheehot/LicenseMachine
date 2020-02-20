@@ -61,3 +61,8 @@ LicenseMachine.verifyByPublic(KeyUtil.toByteByBase64(encrypted), publicKeyString
 * pem파일을 읽어들였는데 Invalid Key Format에러가 날 경우  
 
 	pem파일의 내용을 확인하여 '---BEGIN'문자열 전에 다른 내용이 있을 경우 이전 내용을 제거 후 실행한다.
+	
+	
+	
+########
+https://medium.com/dtevangelist/service-mesh-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%B9%84%EA%B5%90-5b3449c4b7ec
